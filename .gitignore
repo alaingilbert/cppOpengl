@@ -1,0 +1,6 @@
+*.o
+*.user
+*.swp
+.DS_Store
+Makefile
+moc_*
